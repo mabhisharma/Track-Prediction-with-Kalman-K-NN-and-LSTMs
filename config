@@ -1,0 +1,11 @@
+[trainingLabelsDirectory]
+path = data/training/label_02
+
+[testingLabelsDirectory]
+path = data/testing/det_02
+
+[trainingImageDirectory]
+path = data/data_tracking_image_2/training/image_02
+
+[testingImageDirectory]
+path = data/data_tracking_image_2/training/image_02
